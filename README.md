@@ -13,24 +13,25 @@ Consultant with over 2 years of experience in enterprise data engineering, advan
 </tr>
 </table>
 
-- Delivered large-scale data migrations and Snowflake/AWS pipelines at **PwC India**, including 438 Oracle NetSuite tables (5M+ records)
-- Built ETL/ELT pipelines on Snowflake using a Medallion architecture, and integrated SAP Business One APIs for automated cost analysis
-- Research experience in Quantum Cryptography (DRDO, Ministry of Defence) and Weak Measurements for Quantum Information (University of Moncton, Canada)
+- **Currently:** Business Analyst working directly with founders in the Printing & Packaging domain to improve overall business efficiency
+- **PwC India:** migrated 438 Oracle NetSuite tables (5M+ records) to Snowflake and built Medallion-architecture ETL/ELT pipelines for cost analysis
+- **DRDO:** researched Quantum Cryptography and built deep learning models for network traffic classification
+- **University of Moncton:** researched Weak Measurements for Quantum Information, building a data pipeline to determine the Q-state of photons
 - B.Tech in Electrical Engineering (Minor in Computer Engineering), Delhi Technological University, CGPA 9.2/10
 - Reach me at **rahul.2301.kr@gmail.com**
 
 ## Skills
 
-**Programming & Databases:** C++, Python, SQL (MySQL), MATLAB
-**Big Data & Cloud:** PySpark, Snowflake (SnowPro Core Certified), SAP, AWS
-**Data Science & Tools:** Pandas, SciPy, Matplotlib, descriptive and inferential statistics
-**Productivity:** Advanced Excel, Project Management, Figma, Jira, Wireshark
+- **Programming & Databases:** C++, Python, SQL (MySQL), MATLAB
+- **Big Data & Cloud:** PySpark, Snowflake (SnowPro Core Certified), SAP, AWS
+- **Data Science & Tools:** Pandas, SciPy, Matplotlib, descriptive and inferential statistics
+- **Productivity:** Advanced Excel, Project Management, Figma, Jira, Wireshark
 
 ## Certifications
 
-- Snowflake SnowPro Core Certification, Jan 2025
-- DBT Fundamentals, DBT Learn, Feb 2025
-- Data Science and Machine Learning, Coding Blocks, Dec 2023 to May 2024
+- [Snowflake SnowPro Core Certification](https://www.snowflake.com/en/certifications/snowpro-core-dsa-c02/), Jan 2025
+- [DBT Fundamentals](https://learn.getdbt.com/courses/dbt-fundamentals), DBT Learn, Feb 2025
+- [Data Science and Machine Learning](https://codingblocks.com/), Coding Blocks, Dec 2023 to May 2024
 
 ## Connect
 
