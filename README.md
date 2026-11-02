@@ -29,7 +29,7 @@ Consultant with over 2 years of experience in enterprise data engineering, advan
 
 ## Certifications
 
-- [Snowflake SnowPro Core Certification](https://www.snowflake.com/en/certifications/snowpro-core-dsa-c02/), Jan 2025
+- [Snowflake SnowPro Core Certification](https://achieve.snowflake.com/837acc9c-767d-4fea-b14d-86892e89af28#acc.n465w2xk), Jan 2025
 - [DBT Fundamentals](https://learn.getdbt.com/courses/dbt-fundamentals), DBT Learn, Feb 2025
 - [Data Science and Machine Learning](https://codingblocks.com/), Coding Blocks, Dec 2023 to May 2024
 
